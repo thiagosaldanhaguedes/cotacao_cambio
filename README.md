@@ -2,7 +2,7 @@
 
 App para conversão de moedas e visualização da cotação de dolar/euro em tempo real<br/>
 <br/>
-Projeto desenvolvido em flutter para praticar alguns conhecimentos como:
+Projeto desenvolvido em flutter para praticar alguns conhecimentos como:<br/>
 -Consumo de API<br/>
 -Stacks e positioned<br/>
 -UI<br/>
