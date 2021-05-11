@@ -10,4 +10,4 @@ Projeto desenvolvido em flutter para praticar alguns conhecimentos como:<br/>
 -setState<br/>
 -Future e await<br/>
 
-![alt text](https://github.com/thiagosaldanhaguedes/cotacao_cambio/blob/master/cambio.jpg?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/cotacao_cambio/blob/master/cambio.png?raw=true)
