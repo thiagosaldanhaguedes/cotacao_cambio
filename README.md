@@ -1,6 +1,6 @@
 # App de Cambio e cotação
 
-App para conversão de moedas e visualização da cotação de dolar/euro em tempo real<br/>
+App para conversão de moedas e visualização da cotação de dolar/euro em tempo real por meio de integração com a API do HG Brasil<br/>
 <br/>
 Projeto desenvolvido em flutter para praticar alguns conhecimentos como:<br/>
 -Consumo de API<br/>
